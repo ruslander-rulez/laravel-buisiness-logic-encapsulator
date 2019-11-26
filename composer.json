@@ -1,0 +1,19 @@
+{
+    "name": "ruslander-rulez/laravel-buisiness-logic-encapsulator",
+    "description": "Encapsulating buisiness logic in Laravel projects",
+    "authors": [
+        {
+            "name": "Ruslan Sivets",
+            "email": "ruslansivets@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "laravel/framework": ">5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "RuslanderRulez\\Encapsulator\\": "src/"
+        }
+    }
+}
